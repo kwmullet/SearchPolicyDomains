@@ -11,4 +11,23 @@ My source for these domains is:
 
 I manually added [The National Conference of State Legislators](ncsl.org), so I probably do need to include more sources.
 
+## how to use it
+### Mac OS
+To use this with a Mac, try these steps.
+Once you download policyDomains.txt, you can use this command line to load it up into your paste buffer:
+```
+cat policyDomains.txt|pbcopy
+```
+Next, do your Google search in your browser, and paste the contents of your paste buffer at the end.
+### MS-Windows
+To use this from a PC, try these steps.
+Once you download policyDomains.txt, you can use this command line to load it up into your paste buffer:
+```
+type policyDomains.txt|clip
+```
+Next, do your Google search in your browser, and paste the contents of your paste buffer at the end.
+
+Please [send me an email](mailto:kwm+SearchPolicyDomains@themullets.net) if you have anything to say about this, such as suggestions, questions, indignant responses, or offers to collaborate.
+
+
 
