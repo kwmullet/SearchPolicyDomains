@@ -5,6 +5,6 @@
   - including R, Python, and/or Bash code for the user to update their own copies of the files.
 
 My source for these domains is:
-<p style="padding-left: 2em; text-indent: -2em;">Humphrey, L. (2024, October 18). Research Think Tanks: Top Think Tanks—US [Penn Libraries Guides]. University of Pennsylvania Libraries. https://guides.library.upenn.edu/c.php?g=1035991&p=7509974</p>
+<p style="padding-left: 4em; text-indent: -4em;">Humphrey, L. (2024, October 18). Research Think Tanks: Top Think Tanks—US [Penn Libraries Guides]. University of Pennsylvania Libraries. https://guides.library.upenn.edu/c.php?g=1035991&p=7509974 </p>
 
 I manually added [The National Conference of State Legislators](ncsl.org), 
