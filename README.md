@@ -19,6 +19,14 @@ Once you download policyDomains.txt, you can use this command line to load it up
 cat policyDomains.txt|pbcopy
 ```
 Next, do your Google search in your browser, and paste the contents of your paste buffer at the end.
+
+### MacOS, if you want to skip the download step
+Use this command line to load it up into your paste buffer
+```
+curl --silent https://raw.githubusercontent.com/kwmullet/SearchPolicyDomains/refs/heads/main/policyDomains.txt|pbcopy
+```
+Next, do your Google search in your browser, and paste the contents of your paste buffer at the end.
+
 ### MS-Windows
 To use this from a PC, try these steps.
 Once you download policyDomains.txt, you can use this command line to load it up into your paste buffer:
