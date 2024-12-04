@@ -27,6 +27,11 @@ curl --silent https://raw.githubusercontent.com/kwmullet/SearchPolicyDomains/ref
 ```
 Next, do your Google search in your browser, and paste the contents of your paste buffer at the end.
 
+caveat: I have added an alias to my ~/.zshrc file to make loading this up a single command-line command: “policy-domains”.
+```
+alias policy-domains='curl --silent https://raw.githubusercontent.com/kwmullet/SearchPolicyDomains/refs/heads/main/policyDomains.txt|pbcopy'
+```
+
 ### MS-Windows
 To use this from a PC, try these steps.
 Once you download policyDomains.txt, you can use this command line to load it up into your paste buffer:
