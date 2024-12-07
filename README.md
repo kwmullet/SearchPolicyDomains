@@ -1,5 +1,5 @@
 # SearchPolicyDomains
-As currently implemented, this is a file you can paste at the end of a Google search to restrict the search to a list of what University of Pennsylvania determines to be the top 100 US "think tanks."  I'm assuming "think take" = policy institute.
+As currently implemented, this is a file you can paste at the end of a Google search to restrict the search to a list of what University of Pennsylvania determines to be the top 100 US "think tanks."  I'm assuming "think tank" = policy institute.
 
 - v. 0.1 — proof of concept.  If this works, and I'm not the only user, then I would consider the next level of development reasonably including but not limited to:
   - Multiple sources from which to scrape the domains of policy institutes
